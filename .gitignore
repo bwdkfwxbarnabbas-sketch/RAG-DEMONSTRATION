@@ -1,0 +1,13 @@
+# Python virtual environment (contains thousands of package files)
+myenv/
+
+# Local vector database
+chroma_db/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS metadata files (optional but good practice)
+.DS_Store
+Thumbs.db
